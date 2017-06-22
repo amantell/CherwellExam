@@ -1,0 +1,6 @@
+c:\users\adam mantell\documents\visual studio 2015\Projects\CherwellExam\CherwellExam\bin\Debug\CherwellExam.exe.config
+c:\users\adam mantell\documents\visual studio 2015\Projects\CherwellExam\CherwellExam\bin\Debug\CherwellExam.exe
+c:\users\adam mantell\documents\visual studio 2015\Projects\CherwellExam\CherwellExam\bin\Debug\CherwellExam.pdb
+c:\users\adam mantell\documents\visual studio 2015\Projects\CherwellExam\CherwellExam\obj\Debug\CherwellExam.exe
+c:\users\adam mantell\documents\visual studio 2015\Projects\CherwellExam\CherwellExam\obj\Debug\CherwellExam.pdb
+c:\users\adam mantell\documents\visual studio 2015\Projects\CherwellExam\CherwellExam\obj\Debug\CherwellExam.csprojResolveAssemblyReference.cache
